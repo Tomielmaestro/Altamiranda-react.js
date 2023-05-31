@@ -1,0 +1,197 @@
+:root {
+  --background-brand: #111111;
+  --background-color: #09072c;
+  --background: #f6f6f6;
+  --color: #ffffff;
+  --color2: #00d062;
+  --background-footer: #0f0a40;
+  --hover: #35fed2;
+
+  /* FONT */
+  --font-title: "Rubik", sans-serif;
+  --font-description: "Prompt", sans-serif;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 1600px;
+  margin: auto;
+  height: 100%;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header {
+  width: 100%;
+  height: 85px;
+  background-color: var(--background-color);
+}
+.container .header_logo {
+  width: 150px;
+  height: 60px;
+}
+.container .header_logo .logo {
+  width: 100%;
+  height: 100%;
+}
+.container .form {
+  width: 100%;
+  height: 35px;
+
+  display: flex;
+  position: relative;
+  z-index: 1;
+}
+.container .form .focus:focus {
+  border: 2px solid var(--hover);
+  box-shadow: 0 0 10px 0px var(--hover), 0 0 5px 0px var(--hover);
+}
+.container .form .focus:focus-visible {
+  outline: none;
+}
+.container .form .input {
+  width: 100%;
+  height: 100%;
+  padding-left: 15px;
+  border-radius: 20px;
+  border: 2px solid var(--background-brand) transparent;
+  background-color: var(--color);
+  text-align: start;
+  cursor: text;
+  font-family: var(--font-description);
+  font-weight: 400;
+  font-size: 16px;
+  transition: all 0.2s ease 0s;
+  text-decoration: none;
+}
+.container .form .btnSearch {
+  position: absolute;
+  right: 0;
+  top: 6px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  border-style: none none none solid;
+  width: 50px;
+  height: 23px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.container .userBtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  min-width: 140px;
+  height: 40px;
+  text-decoration: none;
+  color: var(--color);
+  font-family: var(--font-title);
+  font-weight: 400;
+  letter-spacing: 1px;
+  font-size: 16px;
+  margin-left: 5px;
+  text-transform: uppercase;
+}
+.container .userBtn .icon-user {
+  font-size: 25px;
+}
+.container .userBtn:hover {
+  border: 2px solid var(--color);
+  padding: 5px 0px;
+}
+.container .favorites,
+.cart {
+  width: 45px;
+  height: 40px;
+  margin-left: 10px;
+}
+.container .favorites .fav,
+.container .cart .product-cart {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  cursor: pointer;
+}
+.container .favorites .fav .fa-heart,
+.container .cart .product-cart .fa-cart-shopping {
+  font-size: 32px;
+}
+.container .favorites .fav .favorite-cant,
+.product-cant {
+  position: absolute;
+  top: -2px;
+  right: -1px;
+  color: var(--background-brand);
+  background-color: var(--color);
+  font-size: 16px;
+  font-family: var(--font-title);
+  font-weight: 600;
+  padding: 0 2px;
+  border-radius: 30px;
+}
+.product-cart {
+  margin-left: 10px;
+}
+
+.nav {
+  width: 100%;
+  height: 50px;
+  background-color: var(--background-color);
+  border-top: 1px solid rgba(124, 124, 124, 0.475);
+  padding: 0px 160px;
+}
+
+.nav .nav-top {
+  overflow: hidden;
+  width: 100%;
+  max-width: 1920px;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav .nav-top .option {
+  width: 133px;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 5px;
+  border-bottom: 2px solid transparent;
+  cursor: pointer;
+
+  position: relative;
+  left: 0px;
+}
+
+.nav .option span[data-text] {
+  width: 100%;
+  position: absolute;
+  top: 15px;
+  font-family: var(--font-description);
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  text-align: center;
+  white-space: nowrap;
+  padding-bottom: 10.5px;
+  border-bottom: 2px solid transparent;
+  color: var(--color);
+  margin: 0;
+  transition: border-bottom 0.2s ease-in-out 0s;
+}
+.option:hover span[data-text] {
+  transition: all 0.2s ease-in-out 0s;
+  border-bottom: 2px solid var(--hover);
+}
