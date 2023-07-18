@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "img": "./public/imgParallax/imgParallax-1.webp",
+    "title": "Parallax 1",
+    "subtitle": "ESTOY MUY CONTENTO, SI FUNCIONAAA :D"
+  },
+  {
+    "id": 2,
+    "img": "./public/imgParallax/imgParallax-2.webp",
+    "title": "Parallax 2",
+    "subtitle": "FELIZZ PORQUE SE VIENE EL FIN DE SEMANA"
+  },
+  {
+    "id": 3,
+    "img": "./public/imgParallax/imgParallax-3.webp",
+    "title": "Parallax 3",
+    "subtitle": "ESTOY MUY CONTENTO, SI FUNCIONAAA :D, LPMADREEEEE"
+  },
+  {
+    "id": 4,
+    "img": "./public/imgParallax/imgParallax-4.webp",
+    "title": "Parallax 4",
+    "subtitle": "DALEEEEE QUE SE PUEDEEEEEEEEE"
+  },
+  {
+    "id": 5,
+    "img": "./public/imgParallax/imgParallax-5.webp",
+    "title": "Parallax 5",
+    "subtitle": "NASHEEEE SE VIENE EL E-COMMERCEEEEEEEEEE"
+  }
+]

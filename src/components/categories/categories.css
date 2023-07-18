@@ -1,0 +1,25 @@
+.containerCard-categories {
+  width: 1100px;
+  height: 100%;
+  min-height: 790px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 1fr;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  gap: 15px;
+  margin: 20px auto;
+}
+
+.containerCard-categories .title-categories {
+  text-align: center;
+  font-size: 29px;
+  font-family: var(--font-title);
+  font-weight: 600;
+  color: #090808;
+  text-transform: uppercase;
+  cursor: pointer;
+  text-decoration: none;
+  width: 900px;
+}

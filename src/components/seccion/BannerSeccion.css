@@ -1,0 +1,97 @@
+.banner-container {
+  width: 100%;
+  display: flex;
+  position: relative;
+  margin-bottom: 40px;
+}
+
+.banner-container .pages-banner {
+  position: relative;
+  display: flex;
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  background-color: rgb(83, 18, 103);
+}
+
+.banner-container .pages-banner .banner-img {
+  display: block;
+  object-fit: cover;
+  object-position: center center;
+  width: 100%;
+  height: 100%;
+  transition: all 0.3s ease 0s;
+}
+
+.banner-container .pages-banner:hover .banner-img {
+  opacity: 1;
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
+.banner-container .pages-banner .info-banner {
+  width: 100%;
+  position: absolute;
+  bottom: 100px;
+  height: 40%;
+  text-align: center;
+  padding: 5px 100px;
+}
+
+.banner-container .pages-banner .info-banner .btn-info {
+  font-family: var(--font-title);
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 65px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.banner-container .pages-banner .info-banner .parrafo-banner {
+  font-family: var(--font-description);
+  font-weight: 400;
+  font-size: 25px;
+  margin-bottom: 20px;
+  color: rgba(255, 255, 255, 0.7);
+  cursor: pointer;
+}
+
+.banner-container .pages-banner .btn-banner {
+  position: absolute;
+  left: 37%;
+  bottom: 40px;
+  margin: auto;
+  font-size: 26px;
+  width: 260px;
+  height: 60px;
+}
+
+.banner-container .pages-banner .btn-banner .btn-banner-cat {
+  width: 260px;
+  height: 60px;
+  background-color: transparent;
+  color: rgb(255, 255, 255);
+  border-width: 2px;
+  border-color: rgb(255, 255, 255);
+  border-style: solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  transition: all 0.3s ease 0s;
+  font-size: 26px;
+  font-family: var(--font-title);
+  font-weight: 600;
+  cursor: pointer;
+  text-align: center;
+  line-height: 26px;
+  text-decoration: none;
+}
+
+.banner-container .pages-banner .btn-banner .btn-banner-cat:hover {
+  background-color: rgb(255, 255, 255);
+  color: var(--background-brand);
+  border-width: 2px;
+  border-color: rgb(255, 255, 255);
+  border-style: solid;
+}

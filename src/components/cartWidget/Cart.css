@@ -1,0 +1,30 @@
+.container .favorites .fav,
+.container .cart .product-cart {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  cursor: pointer;
+}
+.container .favorites .fav .fa-heart,
+.container .cart .product-cart .fa-cart-shopping {
+  font-size: 32px;
+}
+.container .favorites .fav .favorite-cant,
+.product-cant {
+  position: absolute;
+  top: -2px;
+  right: -1px;
+  color: var(--background-brand);
+  background-color: var(--color);
+  font-size: 16px;
+  font-family: var(--font-title);
+  font-weight: 600;
+  padding: 0 2px;
+  border-radius: 30px;
+}
+.product-cart {
+  margin-left: 10px;
+}

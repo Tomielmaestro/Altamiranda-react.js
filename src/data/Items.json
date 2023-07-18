@@ -1,0 +1,621 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nombre": "Almacenamiento",
+      "img": "./public/categorias/Almacenamiento.avif"
+    },
+    {
+      "id": 2,
+      "nombre": "Auriculares",
+      "img": "./public/categorias/Auriculares.avif"
+    },
+    {
+      "id": 3,
+      "nombre": "Fuentes",
+      "img": "./public/categorias/Fuentes.avif"
+    },
+    {
+      "id": 4,
+      "nombre": "Parlantes",
+      "img": "./public/categorias/Parlantes.avif"
+    },
+    {
+      "id": 5,
+      "nombre": "Placa de Video",
+      "img": "./public/categorias/PlacaVideo.avif"
+    },
+    {
+      "id": 6,
+      "nombre": "Refrijeracion",
+      "img": "./public/categorias/Refrijeracion.avif"
+    },
+    {
+      "id": 7,
+      "nombre": "Monitores",
+      "img": "./public/categorias/Monitores.avif"
+    },
+    {
+      "id": 8,
+      "nombre": "Motherboard",
+      "img": "./public/categorias/Motherboard.avif"
+    },
+    {
+      "id": 9,
+      "nombre": "Mouses",
+      "img": "./public/categorias/Mouses.avif"
+    },
+    {
+      "id": 10,
+      "nombre": "Pc Armadas",
+      "img": "./public/categorias/PcArmada.jpg"
+    },
+    {
+      "id": 11,
+      "nombre": "Accesorios",
+      "img": "./public/categorias/Accesorios.avif"
+    },
+    {
+      "id": 12,
+      "nombre": "Pc Gamer",
+      "img": "./public/categorias/Pcgamer.avif"
+    },
+    {
+      "id": 13,
+      "nombre": "Tecnologia",
+      "img": "./public/categorias/Tecnologia.avif"
+    },
+    {
+      "id": 14,
+      "nombre": "Gabinetes",
+      "img": "./public/categorias/Gabinetes.avif"
+    },
+    {
+      "id": 15,
+      "nombre": "Microfonos",
+      "img": "./public/categorias/Microfonos.avif"
+    },
+    {
+      "id": 16,
+      "nombre": "Teclados",
+      "img": "./public/categorias/Teclado.avif"
+    },
+    {
+      "id": 17,
+      "nombre": "Notebooks",
+      "img": "./public/categorias/Netbooks.avif"
+    },
+    {
+      "id": 18,
+      "nombre": "Memorias Ram",
+      "img": "./public/categorias/MemoriaRam.avif"
+    },
+    {
+      "id": 19,
+      "nombre": "Microprocesadores",
+      "img": "./public/categorias/Microprocesadores.avif"
+    },
+    {
+      "id": 20,
+      "nombre": "Sillas Gamer",
+      "img": "./public/categorias/SillaGamer.avif"
+    },
+    {
+      "id": 21,
+      "nombre": "Camaras",
+      "img": "./public/categorias/Camara.avif"
+    },
+    {
+      "id": 22,
+      "nombre": "Perifericos"
+    }
+  ],
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "placa de video gtx 1650 gigabyte oc 4gd gddr6",
+      "marca": "gigabyte",
+      "categoria_id": 5,
+      "precio": 120.0,
+      "category": "placasdevideo",
+      "stock": 2,
+      "imagen": "./public/img_products/placa-video-gtx1650.jpg",
+      "description": "El proceso de producción totalmente automatizado garantiza la máxima calidad de las placas de circuito y elimina las protuberancias afiladas de los conectores de soldadura que se ven en la superficie de la placa de circuito impreso convencional. Este diseño amigable evita que sus manos se corten o dañen los componentes sin darse cuenta al hacer su construcción. El sistema de refrigeración de diseño personalizado de GIGABYTE cuenta con un ventilador de aspas único de 90 mm, que ofrece una capacidad de disipación de calor efectiva para un mayor rendimiento a temperaturas más bajas. Con menos de 172 mm de longitud, la tarjeta gráfica se puede instalar fácilmente en cualquier chasis pequeño. El flujo de aire se derrama por el borde triangular del ventilador y se guía suavemente a través de la curva de rayas 3D en la superficie del ventilador, lo que mejora de manera efectiva el flujo de aire. Resolución máxima digital: 7680x4320. Bus de memoria: 128 bits. Tamaño de memoria: 4gb. Reloj de la memoria: 12000 MHz. Desarrollado por GeForce®: GTX 1650 NVIDIA Turing™ arquitectura y GeForce. Integrado con: 4 GB GDDR6. Interfaz de memoria de: 128 bits. Ventilador de hoja exclusivo de: 90 mm. Tamaño de tarjeta compacto de: 172 mm. Core Clock: 1635 MHz (Tarjeta de referencia: 1590 MHz)"
+    },
+    {
+      "id": 2,
+      "nombre": "PLACA DE VIDEO AMD RX 6600 POWERCOLOR FIGHTER",
+      "marca": "amd",
+      "categoria_id": 5,
+      "precio": 126.0,
+      "category": "placasdevideo",
+      "stock": 5,
+      "imagen": "./public/img_products/placa-video-rx6600.jpg",
+      "description": "Tipo De Conexion: PCI Express 4.0  Chipset GPU: RX 6600c Salidas HDMI: 1 Salidas DVI: No Salidas DisplayPort: 3 Ancho: 111 Mm Largo: 200 Mm Gros: 39 Mm Consumo: 132 W Watts Recomendados (Fuente): 300 W Conexion De Energia: 1 X 8 Pin Cantidad De Coolers Fan: 3 Velocidad Del Core Basee: 1626 MHz Velocidad Del Core Basee: 2044 MHz Tipo De Memoria: GDDR6 Capacidad De Memoria: 8 GB Velocidad De Memoria: 14 Gbps Interface De Memoria: 128 Bit"
+    },
+    {
+      "id": 3,
+      "nombre": "PLACA DE VIDEO AMD RX 550 4GB POWERCOLOR RED DRAGON GDDR5",
+      "marca": "amd",
+      "categoria_id": 5,
+      "precio": 78.0,
+      "category": "placasdevideo",
+      "stock": 10,
+      "imagen": "./public/img_products/placa-video-rx550.jpg",
+      "description": "Frecuencia de aumento: 1183 MHz Rendimiento máx.: Hasta 1.2 TFLOPs Potencia típica de la placa (escritorio): 50 W Recomendación de PSU: 400 W Velocidad de memoria (efectiva): 7 Gbps Tamaño de memoria máx.: 4 GB Tipo de memoria: GDDR5 Interfaz de memoria: 128-bit Ancho de banda de memoria máx.: Hasta 112 GB/s Compatibilidad con HDMI™ 4K: Sí  Decodificación 4K H264: Sí Codificación 4K H264: Sí Decodificación H265/HEVC: Sí Codificación H265/HEVC: Sí"
+    },
+    {
+      "id": 4,
+      "nombre": "PLACA DE VIDEO Gigabyte GeForce RTX 4070 Ti GAMING OC 12G",
+      "marca": "gigabyte",
+      "categoria_id": 5,
+      "precio": 120.0,
+      "category": "placasdevideo",
+      "stock": 3,
+      "imagen": "./public/img_products/placa-video-rtx4070ti.jpg",
+      "description": "Con tecnología NVIDIA DLSS 3, arco Ada Lovelace ultraeficiente y trazado de rayos completo Núcleos tensoriales de 4.ª generación: hasta 4 veces más rendimiento con DLSS 3 que con renderizado de fuerza bruta Núcleos RT de tercera generación: rendimiento de trazado de rayos de hasta 2X Desarrollado por GeForce RTX™ 4070 Ti Integrado con interfaz de memoria de 12 GB GDDR6X de 192 bits Sistema de refrigeración WINDFORCE Fusión RGB BIOS doble Placa trasera de metal de protección Soporte anti-hundimiento SISTEMA DE REFRIGERACIÓN WINDFORCE El sistema de refrigeración WINDFORCE cuenta con tres ventiladores de aspas únicos de 100 mm, giro alternativo, 7 tubos de calor de cobre compuesto, una cámara de vapor que toca directamente la GPU, ventiladores activos 3D y refrigeración de pantalla, que juntos proporcionan una disipación de calor de alta eficiencia."
+    },
+    {
+      "id": 5,
+      "nombre": "PLACA DE VIDEO GT 1030 2GB GIGABYTE LP",
+      "marca": "gigabyte",
+      "categoria_id": 5,
+      "precio": 45.0,
+      "category": "placasdevideo",
+      "stock": 10,
+      "imagen": "./public/img_products/placa-video-gt1030.jpg",
+      "description": "Nvidia es el fabricante líder de placas de video; su calidad asegura una experiencia positiva en el desarrollo del motor gráfico de tu computadora. Además, sus procesadores usan tecnología de punta para que puedas disfrutar de un producto veloz y duradero. Como cuenta con 384 núcleos, los cálculos para el procesamiento de gráficos se realizarán de forma simultánea logrando un resultado óptimo del trabajo de la placa. Esto le permitirá ejecutar lecturas dispersas y rápidas de y hacia la GPU. Criterio fundamental a la hora de elegir una placa de video, su resolución de 4096x2160 no te defraudará. La decodificación de los píxeles en tu pantalla te harán ver hasta los detalles más ínfimos en cada ilustración. Fabricante: Nvidia Serie: GeForce 10 Series Cantidad de núcleos: 384 Frecuencia del núcleo del modo de juego: 1151 MHz - 1379 MHz Frecuencia del núcleo del modo OC: 1177 MHz - 1417 MHz Es compatible con directX: Sí Es compatible con openGL: Sí Tamaño de la memoria: 2 GB Tipo de memoria gráfica: DDR4 Interfaz con la placa madre: PCI-Express 3.0 Bus de memoria: 64 bit Conectividad: DVI-D, HDMI 2.0 Cantidad máxima de monitores: 2 Resolución máxima: 4096x2160  Requerimiento energético. 300 W"
+    },
+    {
+      "id": 6,
+      "nombre": "MONITOR SAMSUNG GAMER 25'' Odyssey G4 240HZ IPS",
+      "marca": "samsung",
+      "categoria_id": 7,
+      "precio": 100.0,
+      "category": "monitores",
+      "stock": 10,
+      "imagen": "./public/img_products/monitor-samsung-odyssey.jpg",
+      "description": "Escápate al realismo que desafía la realidad. Se pueden ver juegos como nunca antes. El panel IPS ofrece colores claros y un amplio ángulo de visión de 178° para mayor claridad desde cualquier punto de vista. Con más píxeles y mayor profundidad, los juegos están más cerca de la realidad que nunca. Acelera las escenas. La frecuencia de actualización de 240 Hz elimina la demora para un juego emocionante con una acción ultrafluida. Ataca a los enemigos apenas los veas con un tiempo de respuesta de 1 ms y cuadros sin desenfoque. Color : Negro Tamaño de panel : 25 Curvo/Plano : Plano Colores : 16.7M Tipo de panel : IPS  Resolución : 1920 x 1080 FHD Ángulo de vision : 178 grados / 178 grados"
+    },
+    {
+      "id": 7,
+      "nombre": "MONITOR SAMSUNG LED 22'' T350H FULL HD",
+      "marca": "samsung",
+      "categoria_id": 7,
+      "precio": 50.0,
+      "category": "monitores",
+      "stock": 2,
+      "imagen": "./public/img_products/monitor-samsung-led.jpg",
+      "description": "Al sincronizar dinámicamente la frecuencia de actualización de la pantalla con la velocidad de fotogramas de la imagen, AMD FreeSync minimiza los saltos de pantalla y asegura una jugabilidad sin problemas Al instante optimiza los colores de la pantalla y el contraste para los juegos, Game Mode te asegura que podrás ver cada escena del juego en su mejor momento * AMD FreeSync está disponible solo para 24 pulgadas, 27 pulgadas Tipo De Panel: IPS Pantalla: Plana Ancho: 476 Mm Alto: 267.7 Mm Tamaño De Pantalla: 22 Entrada D-Sub: 1 Entrada Display Port: No Entrada HDMI: 1 Pie Desmontable: Si Resolucion Maxima: 1920 X 1080 Tiempo De Respuesta: 5 Ms Cantidad De Colores: 16.7M Frecuencia Maxima: 75Hz"
+    },
+    {
+      "id": 8,
+      "nombre": "MONITOR 27 ASUS VA27EHE BLACK IPS 75HZ VGA/HDMI",
+      "marca": "asus",
+      "categoria_id": 7,
+      "precio": 80.0,
+      "category": "monitores",
+      "stock": 5,
+      "imagen": "./public/img_products/monitor-asus-27.jpg",
+      "description": "Gracias a su panel IPS y a su alto contraste de 1.000:1 , el monitor ASUS VA27EHE te ofrece una imagen con colores ricos y matizados. La tecnología IPS también te permite beneficiarse de ángulos de visión más amplios (178°); los colores se mantendrán constantes independientemente de tu posición en la pantalla. Además, con una frecuencia de actualización de 75Hz, tus juegos favoritos tendrán un nivel de fluidez más alto para ganar más fácilmente. También puedes confiar en la tecnología Adaptive Sync para eliminar las roturas de pantalla en el juego: ¡puedes disfrutar de largas sesiones de gaming en las mejores condiciones! Cantidad de colores de la pantalla: 16 Conexiones del monitor: HDMI, VGA, DVI Brillo: 250 cd/m2 Tecnología de la pantalla: IPS Accesorios incluidos: Cable alimentación Tipo de resolución: Full HD Tiempo de respuesta: 5 ms Frecuencia de refresco: 75 hz Voltaje: 220 v Es gamer: SI"
+    },
+    {
+      "id": 9,
+      "nombre": "Monitor 24'' ASUS VP249QGR IPS FHD 144Hz (HDMI + DP)",
+      "marca": "asus",
+      "categoria_id": 7,
+      "precio": 90.0,
+      "category": "monitores",
+      "stock": 10,
+      "imagen": "./public/img_products/monitor-asus-144.jpg",
+      "description": "Tamaño del panel: Pantalla ancha 23,8 (60,5 cm) Saturación de color 16: 9 : 72% NTSC Tipo de panel: IPS Resolución real: 1920 x 1080 Área de visualización de la pantalla (HxV): 527,04 x 296,46 mm Brillo: 250 cd  Relación de contraste: 1000: 1 (típico) Relación de contraste inteligente ASUS (ASCR): 100000000: 1 Ángulo de visión (CR 10): 178 ° (H) / 178 ° (V) Tiempo de respuesta : MPRT de 1 ms, 4 ms (gris a gris Colores de pantalla: 16,7 M Frecuencia de actualización (máx.):144 Hz Tecnología Trace Free: Sí Compatible con HDCP: Sí"
+    },
+    {
+      "id": 10,
+      "nombre": "MONITOR SAMSUNG 32 4k SMART TV M7",
+      "marca": "samsung",
+      "categoria_id": 7,
+      "precio": 150.0,
+      "category": "monitores",
+      "stock": 1,
+      "imagen": "./public/img_products/monitor-samsung-4k.jpg",
+      "description": "Entretenimiento sin esfuerzo con una simple conexión Wi-Fi. Disfrutá fácilmente de tus aplicaciones de transmisión favoritas en 4K HDR real, a menudo difícil de experimentar en un entorno de PC. Samsung TV Plus ofrece contenido en vivo gratuito sin descargas ni registros, y recomendaciones de contenido personalizadas de Universal Guide. Diagonal de la pantalla: 81,3 cm (32) Brillo de la pantalla (típico): 300 cd / m² Resolución de la pantalla: 3840 x 2160 Pixeles. Relación de aspecto nativa: 16:9. Tiempo de respuesta: 4 ms. Tipo HD: 4K Ultra HD. Tecnología de visualización: LCD.  Puertos HDMI / USB  Forma de la pantalla: Plana."
+    },
+    {
+      "id": 11,
+      "nombre": "NOTEBOOK ASUS 15.6 RYZEN 3-3250U 8GB 256GB",
+      "marca": "asus",
+      "categoria_id": 17,
+      "precio": 400.0,
+      "category": "notebook",
+      "stock": 5,
+      "imagen": "./public/img_products/notebook-asus-ryzen.jpg",
+      "description": "Memoria del Sistema Ram 8GB Tamaño de Pantalla 15 pulgadas Resolución Fhd Cantidad de núcleo 4 Puerto HDMI Wifi Camara Web Integrada Velocidad del procesador 2,8 Modelo de Procesador Ryzen 3 Tipo de disco duro: SSD Batería 36WH"
+    },
+    {
+      "id": 12,
+      "nombre": "NOTEBOOK ASUS ZEPHYRUS 14 R7 5800HS 16GB 512GB RTX3050 W11H",
+      "marca": "asus",
+      "categoria_id": 17,
+      "precio": 1000.0,
+      "category": "notebook",
+      "stock": 2,
+      "imagen": "./public/img_products/notebook-asus-ryzen2.jpg",
+      "description": "Pantalla: 14 WQHD (2560 x 1440) 16 Procesador: AMD Ryzen™ 7 5800HS Mobile Processor (8-core/16-thread, 20MB cache, up to 4.4 GHz max boost) Memoria: 8GB DDR4 (on board) + 8GB DDR4 (extraible) Disco: 512GB M.2 NVMe™ PCIe® 3.0 SSD S.O.: Windows 11 Home VGA: NVIDIA® GeForce RTX™ 3050 Laptop GPU 4GB GDDR6"
+    },
+    {
+      "id": 13,
+      "nombre": "NOTEBOOK  LENOVO TB15 I5 8G 256 W10P",
+      "marca": "lenovo",
+      "categoria_id": 17,
+      "precio": 500.0,
+      "category": "notebook",
+      "stock": 5,
+      "imagen": "./public/img_products/notebook-lenovo.jpg",
+      "description": "La notebook Lenovo ThinkBook 15 ITL fue pensada para hacer tu vida más sencilla. Su diseño elegante e innovador y su comodidad para transportarla, la convertirá en tu PC favorita. Cualquier tarea que te propongas, ya sea en casa o en la oficina, la harás con facilidad gracias a su poderoso rendimiento. Lo que tenés que saber de este producto Procesador Intel. Memoria RAM de 8GB. Resolución de 1920x1080 px. Es antirreflejo. Placa de video Intel Iris Xe Graphics. Conexión wifi y bluetooth. Cuenta con 4 puertos USB y puerto HDMI.  Incluye lector de tarjeta de memoria.  Posee pad numérico. "
+    },
+    {
+      "id": 14,
+      "nombre": "NOTEBOOK LENOVO 14 V14 I3-1115G4 8GB SSD256",
+      "marca": "lenovo",
+      "categoria_id": 17,
+      "precio": 300.0,
+      "category": "notebook",
+      "stock": 5,
+      "imagen": "./public/img_products/notebook-lenovo2.jpg",
+      "description": "Procesador: INTEL Core i3 1115G4  Memoria: 4GB Soldered DDR4-2400 + 4GB SO-DIMM DDR4-2400  Memoria máxima: Up to 12GB (4GB soldered + 8GB SO-DIMM) DDR4-2400  Adaptador de corriente: 65W Round Tip (2-pin, Wall-mount)  Altavoces: Stereo speakers, 1.5W x2, Dolby Audio  Batería: Integrated 30Wh  Cámara: 0.3MP  Certificaciones ecológicas: ErP Lot 3  RoHS compliant  Chip de audio: High Definition (HD) Audio  Chip de seguridad: Firmware TPM 2.0  Tratamiento de superficies: IMR (In-Mold Decoration by Roller)  Pantalla táctil: No  Sistema operativo: FreeDOS  Teclado: Non-backlit, Spanish (LA) "
+    },
+    {
+      "id": 15,
+      "nombre": "NOTEBOOK ASUS TUF 15.6 144HZ R5 4600H 16GB 512GB NVME GTX165",
+      "marca": "asus",
+      "categoria_id": 17,
+      "precio": 800.0,
+      "category": "notebook",
+      "stock": 1,
+      "imagen": "./public/img_products/notebook-asus-tuf.jpg",
+      "description": "Pantalla: 15.6 FHD (1920 x 1080) 16  Procesador: AMD Ryzen™ 5 4600H Mobile Processor (6-core/12-thread, 11MB Cache, 4.0 GHz max boost)  Memoria: 8GB DDR4 (EXTRAIBLE) + 8GB DDR4 (EXTRAIBLE)  Disco: 512GB PCIe® 3.0 NVMe™ M.2 SSD  VGA: NVIDIA® GeForce GTX™ 1650 4gb GDDR6  S.O.: Free DOS  Otros: posee teclado numerico  Otros: teclado retroiluminado RGB  Otros: posee puerto de red "
+    },
+    {
+      "id": 16,
+      "nombre": "SILLA GAMER CORSAIR T3 RUSH CHARCOAL 2023",
+      "marca": "corsair",
+      "categoria_id": 20,
+      "precio": 300.0,
+      "category": "sillasgamer",
+      "stock": 5,
+      "imagen": "./public/img_products/silla-corsair.jpg",
+      "description": "La silla de juegos CORSAIR T3 RUSH combina un diseño inspirado en las carreras y una comodidad contorneada con un exterior de tela suave y transpirable, una almohada cervical acolchada y un soporte lumbar de espuma viscoelástica. Altura máxima del asiento: 54 cm  Altura mínima del asiento: 44 cm  Altura máxima del brazo: 36.5cm  Altura mínima del brazo: 28.5cm  Altura del respaldo: 85 cm  Respaldo hombro ancho: 54 cm  Tamaño de paquete: 88.5cm x 69cm x 37.5cm  Peso Neto: 22.5kg  Peso bruto: 25.5 kg  Capacidad de peso: 120kgs  Almohada lumbar ajustable: Sí  Almohada ajustable para el cuello: Sí  Silla Base Material: Nylon  Tamaño de rueda: 65 mm  Material de la Rueda: Nylon  Tamaño del asiento: 56cm x 58cm  Tipo de espuma del asiento Espuma de poliuretano (espuma fría)  Densidad de espuma del asiento: 55 kg / m³  Color del marco del asiento: negro  Inclinación: sí  Inclinación de bloqueo: Sí  Tamaño: regular  Tamaño de la almohadilla del reposabrazos: 26cm x 10cm x 2.65cm "
+    },
+    {
+      "id": 17,
+      "nombre": "SILLA GAMER CORSAIR T2 ROAD BLACK",
+      "marca": "corsair",
+      "categoria_id": 20,
+      "precio": 400.0,
+      "category": "sillasgamer",
+      "stock": 3,
+      "imagen": "./public/img_products/silla-corsair2.jpg",
+      "description": "El CORSAIR T2 ROAD WARRIOR presenta un asiento ancho, respaldo alto y detalles de color personalizados de dos capas, que le brindan el estilo, la comodidad y la resistencia que necesita para las sesiones de juego de larga distancia.  Altura máxima del asiento: 60cm  Altura mínima del asiento: 51.5cm  Altura máxima del brazo: 38cm  Altura mínima del brazo: 28 cm  Altura del respaldo: 88cm  Ancho de hombro del respaldo: 50 cm  Tamaño del paquete: 88cm x 69.5cm x 37cm  Peso neto: 24,5 kg  Peso bruto: 28,5 kg  Capacidad de peso: 136 kg  Almohada Lumbar Ajustable: Si  Talla: Grande  Color: Negro  Inclinación: Si  Tipo de mecanismo de inclinación: Multifuncional "
+    },
+    {
+      "id": 18,
+      "nombre": "Silla Gamer Corsair TC200 Cuero Negro / Negro",
+      "marca": "corsair",
+      "categoria_id": 20,
+      "precio": 300.0,
+      "category": "sillasgamer",
+      "stock": 0,
+      "imagen": "./public/img_products/silla-corsair3.jpg",
+      "description": "La silla para juegos TC200 Series presenta un diseño cómodo y elegante inspirado en las carreras, está fabricada en resistente acero, ofrece una altura y ancho mejorados, y cuenta con el soporte duradero necesario para resistir toda la competición.  Con la opción de polipiel de calidad o tejido suave, la tapicería exterior incluye secciones perforadas para una mayor transpirabilidad, para mantenerle cómodo y fresco durante las largas horas juego al tiempo que conserva su sensación de frescor.  Polipiel de calidad  Tejido suave  Con su duradero bastidor reforzado con acero, su distancia entre ejes y su elevador de gas de clase 4, estas sillas para uso intensivo le mantendrán estable y seguro para cualquier momento intenso  Gracias al soporte lumbar de espuma de alta densidad incorporado y la almohada para el cuello de espuma viscoelástica desmontable incluida, la silla TC200 Series se adapta a la forma de su cuerpo y proporciona comodidad donde más se necesita.  Encuentre su posición ideal para sentarse con un enorme rango de ajuste para la altura, el reposabrazos y el respaldo.  Altura del asiento: 47 - 59 cm  Altura del brazo: 65 - 83.5 cm  Altura del respaldo: 83 cm  Ancho de hombros del respaldo: 53 cm  Densidad de espuma: 55 Kg / m³  Cojín para cervicales: Sí  Reposabrazos: 4D, ajustables:  Pistón de gas: Clase 4  Estructura de la base: Acero  Tamaño de las ruedas: 75mm  Material: Polipiel  Material de las ruedas: Poliuretano termoplástico (TPU)  Peso máximo soportado: 122 Kg "
+    },
+    {
+      "id": 19,
+      "nombre": "PENDRIVE 64GB KINGSTON 3.1 DTX",
+      "marca": "kingston",
+      "categoria_id": 11,
+      "precio": 20.0,
+      "category": "accesorios",
+      "stock": 10,
+      "imagen": "./public/img_products/pendrive-kingston.jpg",
+      "description": "Kingston fabrica productos con la más alta calidad del mercado. Encontrarás en esta marca compatibilidad, practicidad y garantía de por vida. Las unidades Kingston permiten el almacenamiento de fotos, música, vídeo y mucho más.  Este pendrive te permitirá almacenar hasta 64 GB para que puedas guardar gran cantidad de información, imágenes u otros tipos de archivos.  Su tecnología 3.2 Gen 1 brinda una velocidad de lectura mayor que las memorias tradicionales.  Con este dispositivo podrás mantener tus archivos siempre protegidos. Además su uso es muy práctico: solo debes conectarlo al aparato y arrastrar los archivos hasta la unidad.  Cuenta con un diseño super compacto, delgado y resistente para que puedas llevarlo adonde vayas. ¡Podrás usarlo y transportarlo con facilidad cuando te muevas de un lado al otro!  Línea: DataTraveler  Modelo: Exodia  Versión del puerto USB: 3.2 Gen 1  Tipos de conectores: USB-A  Capacidad de almacenamiento de datos: 64 GB  Material: Plástico  Sistema operativo compatible: Windows  Tipo de cierre: Con tapa extraíble  Altura x Ancho x Profundidad: 67.3 mm x 21.04 mm x 10.14 mm"
+    },
+    {
+      "id": 20,
+      "nombre": "MOUSEPAD LOGITECH G240",
+      "marca": "logitech",
+      "categoria_id": 11,
+      "precio": 40.0,
+      "category": "accesorios",
+      "stock": 10,
+      "imagen": "./public/img_products/mousepad-logitech.jpg",
+      "description": "Es tan fácil deslizar el mouse. Con tu Logitech G240 podrás llenar la pantalla de tu computadora de clicks. Su elaborada superficie le dará precisión y comodidad a tus movimientos.  Diseñada con excelente materia prima, tu almohadilla te dará una agradable sensación al tacto y evitará un gran desgaste en la base de tu mouse. Su confección hará que tu mano vuele por la superficie ya que es compatible para funcionar con todo tipo de sensores, inclusive algunos más antiguos.  Modelo: G240  Color: Negro/Blanco  Tamaño del mouse pad: Clásico  Largo x Ancho: 340 mm x 280 mm  Espesor: 1 mm "
+    },
+    {
+      "id": 21,
+      "nombre": "MOUSEPAD RAZER SPHEX V3 LARGE",
+      "marca": "razer",
+      "categoria_id": 11,
+      "precio": 50.0,
+      "category": "accesorios",
+      "stock": 2,
+      "imagen": "./public/img_products/mousepad-razer.jpg",
+      "description": "DISEÑO SUAVE Y ULTRAFINO DE 0,4 MM  Su superficie dura y suave ofrece un seguimiento fluido y preciso optimizado para sensores ópticos, mientras que su perfil es un 20% más delgado para formar parte de su escritorio sin problemas. Disponible en tamaños pequeños y grandes.  1. El Razer Sphex V3 tiene un grosor de 0,4 mm, un 20% más delgado que su predecesor, el Razer Sphex V2.  2. Renovada con una estética negra elegante y una superficie más suave, la Sphex V3 es un 50% más grande que la Sphex V2 estándar.  COMPUESTO DE POLICARBONATO DURO  Probado en laboratorio para tener una increíble resistencia al impacto, al desgarro y al desgarro, el tapete para mouse para juegos Razer Sphex V3 está bien equipado para manejar largas horas de juegos intensos y competitivos.  BASE ADHESIVA  La base adhesiva de la alfombrilla del mouse para juegos lo ayuda a permanecer anclado a su escritorio durante las sesiones más intensas, pero es bastante fácil de quitar sin dejar ningún residuo pegajoso en su configuración.  Grande: 450 mm x 400 mm  GROSOR: 0,4 mm  SUPERFICIE: Dura  CHROMA RGB: No"
+    },
+    {
+      "id": 22,
+      "nombre": "Base Cargadora HyperX ChargePlay Duo PS5 White",
+      "marca": "hyperx",
+      "categoria_id": 11,
+      "precio": 80.0,
+      "category": "accesorios",
+      "stock": 10,
+      "imagen": "./public/img_products/base-cargadora-hyperx.jpg",
+      "description": "Modelo: 51P68AA  Tiempo de Carga: 2 horas  Indicador de batería: Display LED  Entrada de Voltaje: 100 - 240V  Salida de Voltaje: 5V, 2A  Largo del Cable: 1.8m "
+    },
+    {
+      "id": 23,
+      "nombre": "XIAOMI MI TV BOX S 4K MDZ-22-AG (SIN TRAFO)",
+      "marca": "xiaomi",
+      "categoria_id": 13,
+      "precio": 100.0,
+      "category": "tecnologia",
+      "stock": 10,
+      "imagen": "./public/img_products/xiaomi-tv-box.jpg",
+      "description": "Reproduce imágenes y videos en 4K.  Sistema operativo Android TV.  Con conectividad wifi y bluetooth.  Soporta sistema de audio Dolby.  Compatible con televisores, auriculares, computadoras portátiles, parlantes, tablets y celulares.  Procesador gráfico: Mali-450.  Estándar wifi IEEE 802.11a/b/g/n/ac.  Interfaz de conexión HDMI 2.0a, AV.  Puertos y tipos de conectores: DC jack y USB 2.0.  Incluye cable HDMI.  Acceso a plataformas de entretenimiento. "
+    },
+    {
+      "id": 24,
+      "nombre": "Impresora HP Deskjet Ink Advantage 2775",
+      "marca": "hp",
+      "categoria_id": 13,
+      "precio": 120.0,
+      "category": "tecnologia",
+      "stock": 10,
+      "imagen": "./public/img_products/impresora-hp.jpg",
+      "description": "Diseñada para proporcionar una experiencia sin inconvenientes para impresión, escaneo y copia de documentos de todos los días, además de ofrecer conexiones más rápidas y más confiables  Configúrela, conéctela con su computadora, su tablet o su teléfono, y comience a imprimir en minutos con la aplicación HP Smart, la mejor aplicación de impresión móvil de su clase.  Tipo de impresora: Multifunción  Tipo de impresión: Color  Con WI-Fi : Sí  Tecnología de impresión: Inyección de tinta  Funciones de la impresora: Impresión, Copia, Escaneo  Imprime, escanea y hace copias.  Impresión doble faz manual.  Tecnología de impresión: inyección de tinta.  Posee pantalla LCD para visualizar el proceso.  Con conexión bluetooth y entrada USB.  Cuenta con 2 bandejas.  Capacidad máxima de 60 hojas.  Soporta papel tamaño A4, A6, B5, Sobre DL, Legal, Personalizado (89 x 127 mm - 215 x 279 mm).  Incluye accesorios.  Práctica y funcional tanto para uso personal como profesional. "
+    },
+    {
+      "id": 25,
+      "nombre": "APPLE WATCH SERIE SE 44MM RELOJ SILVER",
+      "marca": "apple",
+      "categoria_id": 13,
+      "precio": 200.0,
+      "category": "tecnologia",
+      "stock": 10,
+      "imagen": "./public/img_products/apple-watch.jpg",
+      "description": "El Apple Watch SE tiene el mismo tamaño de pantalla que el Apple Watch Series 6 para que veas más información de un solo vistazo. También incluye sensores avanzados para que lleves un registro de tus objetivos de fitness y entrenamiento, e increíbles funcionalidades de salud y seguridad. La app Sueño te permite establecer una rutina para dormir y llevar un registro de tus hábitos de sueño. Y además, puedes recibir llamadas, mandar mensajes y escuchar música directamente desde tu muñeca. Apple Watch SE. Es mucho más que un reloj y está más a tu alcance.  Modelo GPS para recibir llamadas y responder mensajes desde tu muñeca  Amplia pantalla Retina OLED  Procesador hasta 2 veces más rápido que el del Apple Watch Series 3  Lleva un control de tu actividad diaria en el Apple Watch y revisa tus tendencias en la app Fitness del iPhone  Mide entrenamientos como correr, caminar, bailar, nadar, hacer yoga o andar en bicicleta  Notificaciones de frecuencia cardiaca alta y baja  Sincroniza tu música y podcasts favoritos  Brújula integrada e información de elevación en tiempo real  Puede detectar si sufriste una caída fuerte y llamar automáticamente a los servicios de emergencia  La funcionalidad Emergencia SOS te permite pedir ayuda desde tu muñeca²  watchOS 7 con seguimiento del sueño y nuevas carátulas personalizables  Cajas de aluminio 100% reciclado en tres acabados  Pantalla Retina 30% más grande que la del Series 3  La pantalla del Apple Watch SE es de vidrio Ion-X.  Sensor óptico de frecuencia cardiaca de segunda generación  Chip S5 SiP de doble núcleo  Digital Crown con respuesta háptica  Altímetro siempre activo  Monitoreo de ruido  Bocina y micrófono de segunda generación "
+    },
+    {
+      "id": 26,
+      "nombre": "SMART TV LED SAMSUNG 43'' QN90B GAMER NEOQLED",
+      "marca": "samsung",
+      "categoria_id": 13,
+      "precio": 300.0,
+      "category": "tecnologia",
+      "stock": 10,
+      "imagen": "./public/img_products/samsung-tv.jpg",
+      "description": "El poder de Mini LED  Tecnología Quantum Matrix  Neo QLED revoluciona los estándares de imágenes con Mini LED 40 veces más chicos que los convencionales. El resultado es un negro mucho más preciso y un brillo perfecto, aportando mucho más realismo al contenido vistoProcesador inteligente perfeccionado  Procesador Neo Quantum 4K  El potente procesador cuántico de Samsung de aprendizaje profundo crea la experiencia más precisa y adaptativa que puedas imaginar. El procesador optimiza escena a escena según tus condiciones de visualización y mejora el contenido. El potente escalado 4K AI garantiza que siempre obtengas una resolución 4K completa.  TV NEO QLED SMART 43P 4K QN90B SAMSUNG  - Pantalla 43  - resolución 3.840 x 2.160  - OS Tizen  - Quantum HDR 24x  - Canales 20W 2.0CH  - Refresh Date: 144Hz  - Código de control remoto: TM2280E  - Micro Dimming: Ultimate UHD Dimming  - Bluetooth  - 4 HDMI  - 2 USB  - Modelo 43QN90B  - Garantia Fabricante 12 meses  - Pais de Origen Argentina"
+    },
+    {
+      "id": 27,
+      "nombre": "APPLE WATCH SERIE 3 RELOJ 42MM SPACE GREY GPS",
+      "marca": "apple",
+      "categoria_id": 13,
+      "precio": 144.0,
+      "category": "tecnologia",
+      "stock": 10,
+      "imagen": "./public/img_products/apple-watch2.jpg",
+      "description": "Apple Watch Series 3 GPS  Modelo: MTF32LL/A  Caja de aluminio con correa deportiva  REQUIERE: IPhone 6s o posterior con iOS 13 o posterior, Apple ID, Acceso a internet  GPS/GNSS  Altímetro barométrico  Resistente al agua: 50 metros2  Sensor cardiaco óptico  Emergencia SOS  Acelerómetro: de hasta 16 fuerzas g  Giroscopio  Sensor de luz ambiental  Bocina  Micrófono GymKit  Capacidad de 8 GB  Cubierta posterior de material compuesto  Pantalla: 42mm, 312 x 390 pixeles  Pantalla Retina OLED con Force Touch: Brillo de 1,000 nits  Chip S3 con procesador de doble núcleo  W2: Chip inalámbrico de Apple  Wi-Fi: 802.11b/g/n de 2.4 GHz  Bluetooth 4.2  Energía: Batería de iones de litio recargable integrada, Hasta 18 horas  Cable de carga magnética  Alto: 42.5 mm, Ancho: 36.4 mm, Grosor: 11.4 mm"
+    },
+    {
+      "id": 28,
+      "nombre": "IMPRESORA HP 115 INK TANK",
+      "marca": "hp",
+      "categoria_id": 13,
+      "precio": 100.0,
+      "category": "tecnologia",
+      "stock": 2,
+      "imagen": "./public/img_products/impresora-hp2.jpg",
+      "description": "Obtenga impresiones confiables y de alta calidad con HP, el proveedor de impresoras n.º 1 del mundo.El texto es nítido con colores oscuros. Los gráficos tienen colores vibrantes. Imprima documentos comerciales, folletos y más sin comprometer nada.  Cuente con textos nítidos de colores oscuros en cada impresión.  Las botellas de tinta de alta capacidad de HP lo ayudan a imprimir hasta 8.000 páginas a color o hasta 6.000 páginas en negro a un costo por página extremadamente bajo de inmediato.  Imprima miles de páginas con el sistema de tanque de tinta de alta capacidad.  Las exclusivas botellas libres de derrames de HP y el innovador sistema de relleno hacen que sea fácil y práctico rellenar las botellas, sin provocar desorden ni desecho alguno.Las botellas de tinta tienen cierre hermético.  Rellene fácilmente su sistema de tanque de tinta con botellas resellables que no se derraman  InkJet Color  Insumos: M0H57AL Botella de tinta negra original HP GT51 (aproximadamente 4000 páginas) - M0H54AL Botella de tinta cian original HP GT52 - M0H55AL Botella de tinta magenta original HP GT52 - M0H56AL Botella de tinta amarilla original HP GT52 (aproximadamente 8000 páginas)  Conectividad: USB  Capacidad de Bandeja: 60 Hojas  Tamaño hoja: A4, B5, A6, Sobre DL, Tamaños de soportes personalizados 76,2 x 127 a 215 x 355 mm  Velocidad (ppm): 8 ppm negro / 5 ppm color  Volumen Mensual: Hasta 1000 Páginas "
+    },
+    {
+      "id": 29,
+      "nombre": "APPLE IPHONE 13 PRO 128GB GREEN",
+      "marca": "apple",
+      "categoria_id": 13,
+      "precio": 144.0,
+      "category": "tecnologia",
+      "stock": 3,
+      "imagen": "./public/img_products/apple-iphone13.jpg",
+      "description": "Pantalla Super Retina XDR de 6.7 pulgadas con ProMotion que brinda una respuesta más rápida y fluida.  Modo Cine con baja profundidad de campo y cambios de enfoque automáticos en tus videos.  Nuevo sistema de cámaras Pro de 12 MP (teleobjetivo, gran angular y ultra gran angular), escáner LiDAR, rango de zoom óptico de 6x, fotografía macro, Estilos Fotográficos, video ProRes3, HDR Inteligente 4, modo Noche, Apple ProRAW y grabación de video 4K HDR en Dolby Vision.  Cámara frontal TrueDepth de 12 MP con modo Noche y grabación de video 4K HDR en Dolby Vision.  Chip A15 Bionic para un rendimiento fuera de serie.  Hasta 28 horas de reproducción de video, la mayor duración de batería jamás vista en un iPhone.  Diseño resistente con Ceramic Shield.  Resistencia al agua IP68, líder en la industria.  iOS 15 con nuevas funcionalidades para aprovechar tu iPhone al máximo.  Compatibilidad con accesorios MagSafe, que se acoplan fácilmente a tu iPhone y permiten unacarga inalámbrica más rápida.  Memoria interna: 128GB  Cámara trasera principal: 12 Mpx  Con NFC: Sí  Cámara frontal principal: 12 Mpx  Desbloqueo: Reconocimiento facial "
+    },
+    {
+      "id": 30,
+      "nombre": "APPLE MACBOOK PRO 2GHZ 4C GEN10 I5 1TB 13.3",
+      "marca": "apple",
+      "categoria_id": 13,
+      "precio": 700.0,
+      "category": "tecnologia",
+      "stock": 5,
+      "imagen": "./public/img_products/apple-macbookpro.jpg",
+      "description": "Pantalla retroiluminada por LED de 13,3 pulgadas (en diagonal) con tecnología IPS; resolución nativa de 2.560 por 1.600 a 227 píxeles por pulgada compatible con millones de colores  Resoluciones adaptadas compatibles:  Brillo de 500 nits  Gama cromática amplia (P3)  Tecnología True Tone  Procesador: Intel Core i5 de décima generación de cuatro núcleos a 2 GHz (hasta 3,8 GHz con Turbo Boost) y 6 MB de caché de nivel 3 compartida  Memoria: 16 GB de memoria LPDDR4X integrada a 3.733 MHz  Capacidad: SSD de 1 TB  Alto: 1,56 cm  Ancho: 30,41 cm  Fondo: 21,24 cm  Peso: 1,4 kg  Gráficos: Intel Iris Plus Graphics  Salida de vídeo digital: Thunderbolt 3  Salida DisplayPort nativa a través de USB-C  Sistema Operativo: macOS  Cámara: FaceTime HD a 720p DisplayPort  Thunderbolt (hasta 40 Gb/s)  USB 3.1 Gen 2 (hasta 10 Gb/s)  Conexión inalámbrica: Wi-Fi  Conexión inalámbrica: Wi-Fi 802.11a"
+    },
+    {
+      "id": 31,
+      "nombre": "APPLE IPAD MINI 64GB 6GEN SPACE GREY",
+      "marca": "apple",
+      "categoria_id": 13,
+      "precio": 100.0,
+      "category": "tecnologia",
+      "stock": 2,
+      "imagen": "./public/img_products/apple-ipad-mini.jpg",
+      "description": "Altura: 20 cm.  Ancho: 13 cm.  Profundidad: 1 cm.  Peso: 293 Gr.  Acabado: Gris espacial  Capacidad: 64 GB  Cable de carga USB-C (1 metro)  Adaptador de corriente USB-C de 20 W  Sistema operativo: iPadOS 15 "
+    },
+    {
+      "id": 32,
+      "nombre": "TABLET SAMSUNG WI-FI 8.7 T220 NEGRA",
+      "marca": "samsung",
+      "categoria_id": 13,
+      "precio": 100.0,
+      "category": "tecnologia",
+      "stock": 2,
+      "imagen": "./public/img_products/samsung-tablet.jpg",
+      "description": "Disfrutá de tus películas y juegos favoritos en una amplia pantalla de 8,7 pulgadas. Los biseles reducidos ofrecen una mayor relación pantalla-cuerpo sin aumentar el tamaño de la tablet. Además, su forma compacta te brinda comodidad al usarla y ayuda a que no se te cansen las manos, incluso si jugás durante horas.  Combinar estilo y comodidad ahora es posible. La Galaxy Tab A7 Lite te ofrece ambas características en un formato delgado. Además, la tableta superportátil tiene un grosor de 8,0 mm y pesa 366 g para que puedas llevarla con facilidad, sin agregar peso extra. Elegí entre un elegante acabado gris o plateado.  Velocidad del CPU: 2.3GHz, 1.8GHz  Tipo de CPU: Octa-Core  Tamaño (Display principal): 8.7 (220.5mm)  Resolución (Display principal): 1340 x 800 (WXGA+)  Tecnología (Display principal): TFT  Profundidad de color (Display principal): 16M  Cámara trasera - Resolución: 8.0 MP  Cámara trasera - Auto focus: Si  Cámara frontal - Resolución: 2.0 MP  Cámara trasera - Flash: No  Resolución de grabación de video: FHD (1920 x 1080)@30fps  RAM_Size (GB): 3  ROM Size (GB): 32  Available Memory (GB): 19.5  Soporte de memoria externa: MicroSD (Up to 1TB)  Verión USB: USB 2.0  Earjack: 3.5mm Stereo  MHL: No  Wi-Fi: 802.11 a/b/g/n/ac 2.4G+5GHz, VHT80  Wi-Fi Direct: Si  Versión de Bluetooth: Bluetooth v5.0  NFC: No  Perfiles Bluetooth: A2DP, AVRCP, DI, HID, HOGP, HSP, OPP, PAN  PC Sync.: Smart Switch (PC version) "
+    },
+    {
+      "id": 33,
+      "nombre": "TABLET  LENOVO WIFI K10 TB-X6C6F 3G+32GB",
+      "marca": "lenovo",
+      "categoria_id": 13,
+      "precio": 67.0,
+      "category": "tecnologia",
+      "stock": 7,
+      "imagen": "./public/img_products/lenovo-tablet.jpg",
+      "description": "Pantalla: 10,3 FHD (1920x1200) TDDI 400nits  Pantalla táctil: multitáctil de 10 puntos  Dimensiones (Ancho x profundo x Alto): 244.8 x 153.9 x 8.15 mm  Peso: 460 g  Procesador: MediaTek Helio P22T (8C, 4x A53 @2.3GHz + 4x A53 @1.8GHz)  Gráficos Integrados: IMG PowerVR GE8320 GPU  Chipset: MediaTek SoC Platform  Memoria: 3GB Soldada LPDDR4x  Almacenamiento: 32GB (eMCP4x, eMMC)  Memoria ampliable MicroSD card (Hasta128GB, FAT32; 2TB, exFAT)  Soporte de almacenamiento: 32GB eMCP4x on systemboard  MicroSD card, soporta FAT32 file hasta 128GB, exFAT file up to 2TB  Cámara Front: 5.0MP / Rear 8.0MP  Micrófono 2x, Array  Altavoces: Altavoces estéreo, Dolby Audio  Sensor de acelerómetro (G)  e-brújula  sensor de pasillo  Sensor de giroscopio  Sensor de luz ambiental (ALS)  Sensor de proximidad (P)  Motor de vibración  Masa giratoria excéntrica (ERM)  Batería integrada: 7500mAh  Adaptador de corriente: 5V / 2.0A  Sistema Operativo: Android 11 (R)  Conectividad: WLAN + Bluetooth 11a/b/g/n/ac, 1x1 + BT5.0  Puertos Estándar: 1x conector combinado de auriculares (3.5mm) / micrófono, 1x USB-C 2.0 (soporta data transfer, OTG, and Power Delivery)"
+    },
+    {
+      "id": 34,
+      "nombre": "AURICULARES XIAOMI MI TRUE EARBUDS BASIC 2",
+      "marca": "xiaomi",
+      "categoria_id": 22,
+      "precio": 144.0,
+      "category": "perifericos",
+      "stock": 5,
+      "imagen": "./public/img_products/perifericos-xiaomi-auriculares.dib",
+      "description": "Xiaomi, marca de origen china nacida en 2010 es nueva en relación con otras compañías. Sin embargo, esta corporación asiática creció a pasos agigantados y hoy en día es una referente en el mundo de la electrónica. En cuanto a la gama de audio, fabrica auriculares de todo tipo: ergonómicos, intrauditivos, inalámbricos o con cable. Cualquier opción que elijas será suficiente para disfrutar de una calidad de sonido inigualable.  Al ser in-ear aíslan el ruido del exterior, mejoran la calidad del audio y son de tamaño pequeño para poder insertarse en tu oreja. Son ideales para acompañarte a la hora de hacer ejercicio mientras te sumergís en el mejor sonido envolvente.  Línea: Mi  Modelo: Earphones 2 Basic  Color: Negro  Con micrófono: Sí  Con modo manos libres: Sí  Con micrófono desmontable: No  Con micrófono flexible: No  Unidad de diafragma: 14.2 mm  Impedancia: 32 O  Formato del auricular: In-ear  Es monoaural: No  Es inalámbrico: Sí  Con Bluetooth: Sí  Alcance inalámbrico: 10 m  Con tecnología TWS: Sí  Versión de Bluetooth: 5.0  Con cable desmontable: No  Con asistentes de voz integrados: Síl  Duración de la batería del auricular: 5 h "
+    },
+    {
+      "id": 35,
+      "nombre": "AURICULAR GAMER LOGITECH G335 WHITE",
+      "marca": "logitech",
+      "categoria_id": 22,
+      "precio": 200.0,
+      "category": "perifericos",
+      "stock": 4,
+      "imagen": "./public/img_products/perifericos-logitech-cascos.jpg",
+      "description": "El diseño de banda para la cabeza con suspensión distribuye el peso y alivia los puntos de presión. Las orejeras suaves y transpirables con memoria y el material de malla deportiva rodean la oreja y brindan la cantidad justa de fuerza para permanecer firmemente en su lugar. Con solo 240 gramos.  Longitud: 189 mm  Ancho: 180 mm  Profundidad: 79 mm  Peso: 240 g (incluido el cable)  Marca : Logitech Modelo : G335 WHITE P/N : 981-001017  UPC : 097855165480  Microfono : Integrado, fijo. Con boton de muteo.Compatibilidad : PC, Xbox, PlayStation, Nintendo Switch y dispositivos móviles con toma de audio de 3,5 mm  Micrófono (boom):  Patrón de captación del micrófono: cardioide (unidireccional)  Respuesta de frecuencia: 100 Hz - 10 KHz"
+    },
+    {
+      "id": 36,
+      "nombre": "MOUSE GAMER CORSAIR SABRE PRO CHAMPIONS SERIES",
+      "marca": "corsair",
+      "categoria_id": 22,
+      "precio": 100.0,
+      "category": "perifericos",
+      "stock": 3,
+      "imagen": "./public/img_products/perifericos-corsair-mouse.jpg",
+      "description": "Los productos CORSAIR CHAMPION SERIES se diseñan y prueban por los mejores profesionales de los deportes electrónicos (eSports).  Equípese con el SABRE PRO, un ratón para juegos ligero y apto para competición, equipado con un cable Paracord flexible que reduce el arrastre y botones QUICKSTRIKE con respuesta ultrarrápida.  Con un peso de tan solo 69 g, el SABRE PRO consta de una cómoda forma ergonómica, cable Paracord que reduce el arrastre y almohadillas deslizantes de PFTE 100 % para favorecer los movimientos rápidos, los reflejos de jugador profesional y las partidas más trepidantes mientras las disputa.  Gran ligereza: solo 69 g  El menor recorrido conlleva clics más rápidos, motivo por el cual el SABRE RGB PRO está equipado con botones CORSAIR QUICKSTRIKE. El uso de muelles y bisagras de metal equilibra las teclas al tiempo que crea disparidad nula entre los botones principal y secundario y sus conmutadores OMRON, lo que garantiza una velocidad sobresaliente, gran capacidad de respuesta y coherencia en cada clic.  Línea: Gaming  Modelo: Sabre  Tipo de sensor: Óptico  Resolución del sensor: 18000 dpi  Con Bluetooth: No  Con cable: Sí  Con rueda de desplazamiento: Sí  Con luces: Sí  Tipo de mouse: De juego  Orientación de la mano: Diestro  Es inalámbrico USB: No  Cantidad de botones: 6  Alcance máximo: 1.8 m  Es recargable: No"
+    },
+    {
+      "id": 37,
+      "nombre": "TECLADO GAMER CORSAIR K100 RGB Cherry MX Speed Black",
+      "marca": "corsair",
+      "categoria_id": 22,
+      "precio": 200.0,
+      "category": "perifericos",
+      "stock": 2,
+      "imagen": "./public/img_products/perifericos-corsair-teclado.jpg",
+      "description": "Corsair es un fabricante mundial de equipos y tecnología de alto rendimiento. Sus productos van dirigidos a jugadores, creadores de contenido y diseñadores. A su vez, con sus teclados podrás conseguir un óptimo desempeño al darle un uso intensivo.  Su retroiluminación le da un toque diferente a tu equipo y resalta su composición cuando es utilizado en espacios poco iluminados.  Este dispositivo tiene teclas antighosting. Esta cualidad es indispensable si requerís de un uso intensivo del periférico. Gracias a esto podrás evitar fallas al tocar varias teclas al mismo tiempo.  Peso: 1,35 kg  Encendiendo: RGB  Diseño del teclado: NA  Teclas de macros: 6  Tasa de sondeo USB: Hasta 4.000 Hz con AXON  Interruptores de llave: VELOCIDAD CHERRY® MX  Puerto de paso USB: USB 2.0 tipo A  Matriz: 110 llaves  Conectividad: cableado  Altura ajustable: Sí  Teclas de colores y texturas adicionales Juegos de disparos en primera persona/MOBA  Controles de medios EN: Sí  Tipo de teclado: Tamaño K100  Cambio de teclado: Clave completa (NKRO) con 100% Anti-Ghosting  Material del cable del teclado: Trenzado  Reposamanos Desmontable magnéticamente, acolchada con funda de polipiel "
+    },
+    {
+      "id": 38,
+      "nombre": "MOUSEPAD CORSAIR MM350 CHAMPION SERIESXL",
+      "marca": "corsair",
+      "categoria_id": 22,
+      "precio": 50.0,
+      "category": "perifericos",
+      "stock": 5,
+      "imagen": "./public/img_products/perifericos-corsair-mousepad.jpg",
+      "description": "Disfrute de horas de lujosa comodidad de juego con la alfombrilla de mouse para juegos de tela antidesgaste CORSAIR MM350 Champion Series, que cuenta con una superficie negra sólida X-Large de 450 mm x 400 mm diseñada para profesionales de deportes electrónicos y jugadores competitivos.  Haga grandes jugadas con una superficie textil tejida con deslizamiento mejorado y un tamaño expansivo de 450 mm x 400 mm (17,7 x 15,7) optimizado para ratones de juego ópticos y láser de alto rendimiento.  Un borde antideshilachado de 360 ° cosido con precisión resiste el juego diario y protege contra el pelado de la superficie.  Obtenga la comodidad que necesita para permanecer en el juego por más tiempo con un diseño de goma de felpa gruesa de 5 mm y una base de goma antideslizante para mantener la alfombrilla de ratón en su lugar de forma segura.  Material de la estera: Tela  Tamaño del tapete: Extra grande 450 mm x 400 mm x 5 mm"
+    },
+    {
+      "id": 39,
+      "nombre": "PC GAMER INTEL I5 12400 H610M 16GB SSD 480",
+      "marca": "intel",
+      "categoria_id": 10,
+      "precio": 1000.0,
+      "category": "pcarmadas",
+      "stock": 2,
+      "imagen": "./public/img_products/pcArmadas-inteli5-12400.jpg",
+      "description": " 1 | PROCESADOR INTEL I5 12400 12VA 1700  1 | MOTHER INTEL ASUS PRIME H610M-E D4 (1700)  1 | DDR4 16GB 3200MHZ  1 | DISCO SSD 480GB  1 | GABINETE KIT "
+    },
+    {
+      "id": 40,
+      "nombre": "PC GAMER AMD RYZEN 3 3200G A320 8GB 480GB GABINETE KIT",
+      "marca": "amd",
+      "categoria_id": 10,
+      "precio": 1000.0,
+      "category": "pcarmadas",
+      "stock": 2,
+      "imagen": "./public/img_products/pcArmadas-inteli5-12400.jpg",
+      "description": " 1| PROCESADOR AMD RYZEN 3200G  1| MOTHER A320M  1| MEMORIA 8GB 3200MHZ  1| DISCO SSD 480GB  1| FUENTE GENERICA  1| GABINETE KIT (INCLUYE TECLADO Y MOUSE)"
+    },
+    {
+      "id": 41,
+      "nombre": "PC GAMER AMD RYZEN 5 4600G 16GB 240GB GABINETE KIT",
+      "marca": "amd",
+      "categoria_id": 10,
+      "precio": 1000.0,
+      "category": "pcarmadas",
+      "stock": 1,
+      "imagen": "./public/img_products/pcArmadas-inteli5-12400.jpg",
+      "description": " 1 | PROCESADOR AMD RYZEN 5 4600G  2 | MEMORIA DDR4 8 3200MHZ UDIMM  1 | MOTHER A320M  1 | DISCO SSD 240GB  1 | FUENTE GENERICA  1 | GABINETE KIT (INCLUYE TECLADO Y MOUSE) "
+    },
+    {
+      "id": 42,
+      "nombre": "PC ARMADA INTEL PENTIUM G7400 H610 16GB 480GB GAB KIT",
+      "marca": "intel",
+      "categoria_id": 10,
+      "precio": 1200.0,
+      "category": "pcarmadas",
+      "stock": 4,
+      "imagen": "./public/img_products/pcArmadas-inteli5-12400.jpg",
+      "description": " 1 | PROCESADOR INTEL CELERON G7400  1 | MEMORIA 16 3200  1 | DISCO SSD 480GB  1 | MOTHER H610M  1 | FUENTE GENERICA  1 | GABINETE KIT (INCLUYE TECLADO Y MOUSE)"
+    },
+    {
+      "id": 43,
+      "nombre": "PC GAMER AMD RYZEN 5 5600X RX 6750 XT 32GB 512SSD 750W AC300",
+      "marca": "amd",
+      "categoria_id": 10,
+      "precio": 2000.0,
+      "category": "pcarmadas",
+      "stock": 3,
+      "imagen": "./public/img_products/pcArmadas-amd-ryzen.jpg",
+      "description": " 1 | PROCESADOR AMD RYZEN 5 5600X 6 AM4  1 | MOTHER B550  2 | MEMORIA 16GB 3200MHZ  1 | DISCO SSD 512GB  1 | FUENTE 750W  1 | GABINETE GAMER GIGABYTE AORUS AC300G  1 | PLACA DE VIDEO AMD RX 6750 XT"
+    },
+    {
+      "id": 44,
+      "nombre": "PC GAMER INTEL I5 12600K RTX 2060 B660 32GB 480GB SSD 600W G",
+      "marca": "intel",
+      "categoria_id": 10,
+      "precio": 2000.0,
+      "category": "pcarmadas",
+      "stock": 2,
+      "imagen": "./public/img_products/pcArmadas-inteli5-12600.jpg",
+      "description": " 1 | PROCESADOR INTEL I5 12600KF 1700  2 | MEMORIA DDR4 16GB 3200MHZ  1 | MOTHER MSI PRO B660M-A DDR4  1 | DISCO SSD 480GB  1 | GABINETE CM HAF 500 RAINBOW  1 | FUENTE 600W  1 | PLACA DE VIDEO RTX 2060 EVGA SC GAMING 6GB"
+    },
+    {
+      "id": 45,
+      "nombre": "PC GAMER AMD RYZEN 7 5800X 3080 32GB SSD 512 750W 4000X",
+      "marca": "amd",
+      "categoria_id": 10,
+      "precio": 2500.0,
+      "category": "pcarmadas",
+      "stock": 0,
+      "imagen": "./public/img_products/pcArmadas-amd-ryzen7.jpg",
+      "description": " 1 | PROCESADOR AMD RYZEN 7 5800X  1 | WATER COOLER 240MM ARGB COOLERMASTER  1 | DDR4 CORSAIR RGB 32GB (16GBX2) 3200MHZ  1 | MOTHER GAMER B550  1 | PLACA DE VIDEO RTX 3080  1 | FUENTE AEROCOOL 750W GOLD FULL MODULAR  1 | DISCO SSD 512 GB  1 | GABINETE CORSAIR 4000X ICUE"
+    },
+    {
+      "id": 46,
+      "nombre": "PC GAMER AMD RYZEN 9 5900X RTX 3080 X570 32GB 512SSD 750W 40",
+      "marca": "amd",
+      "categoria_id": 10,
+      "precio": 3000.0,
+      "category": "pcarmadas",
+      "stock": 0,
+      "imagen": "./public/img_products/pcArmadas-amd-ryzen9.jpg",
+      "description": " 1 | PROCESADOR AMD RYZEN 9 5900X  1 | WATERCOOLING ML240L WHITE  1 | MOTHER X570 PHANTOM  2 | MEMORIA 16GB 3600MHZ RGB  1 | DISCO SSD 512 GB  1 | FUENTE 750W 80 RGB  1 | PLACA DE VIDEO RTX 3080  1 | GABINETE CORSAIR 4000D WHITE"
+    }
+  ]
+}

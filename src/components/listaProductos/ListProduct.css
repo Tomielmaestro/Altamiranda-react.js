@@ -1,0 +1,286 @@
+.article {
+  opacity: 1;
+  animation-name: fadeIn_best;
+  animation-fill-mode: forwards;
+  animation-duration: 0.5s;
+  animation-delay: 0.2s;
+  width: 260px;
+  min-width: 260px;
+  height: 425px;
+  box-sizing: border-box;
+  transition: all 0.3s ease 0s;
+  position: relative;
+  border: 2px solid rgb(246, 246, 246);
+}
+
+.article:hover {
+  border: 2px solid #09072c;
+}
+
+.article .ContainerCard {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  transition: all 0.1s ease 0s;
+  background-color: white;
+  cursor: pointer;
+}
+
+.article .ContainerCard .ContainerImg {
+  width: 100%;
+  height: 210px;
+  display: flex;
+  -moz-box-pack: center;
+  justify-content: center;
+  -moz-box-align: center;
+  align-items: center;
+  box-sizing: border-box;
+  padding-right: 35px;
+  padding-bottom: 35px;
+  padding-left: 35px;
+  padding-top: 60px !important;
+  transition: all 0.3s ease 0s;
+  position: relative;
+}
+
+.article .ContainerCard .ContainerImg .img-product {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  object-position: center center;
+}
+
+.article:hover .ContainerImg {
+  padding-right: 25px;
+  padding-bottom: 25px;
+  padding-left: 25px;
+  padding-top: 50px !important;
+}
+
+.article .ContainerCard .infoContainer {
+  position: absolute;
+  height: calc(100% - 210px);
+  bottom: 0px;
+  padding: 0px 15px;
+  box-sizing: border-box;
+  width: 100%;
+  transition: all 0.3s ease 0s;
+}
+
+.article:hover .infoContainer {
+  height: calc(100% - 235px);
+  bottom: 40px;
+}
+
+.article .ContainerCard .infoContainer .infoEntrega {
+  width: 100%;
+  background-color: #00d062;
+  max-height: 31px;
+  overflow: hidden;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+
+.article .ContainerCard .infoContainer .infoEntrega .text-span {
+  width: 100%;
+  height: 100%;
+  color: var(--color);
+  font-family: var(--font-description);
+  font-size: 14px;
+  font-weight: 600;
+  font-style: normal;
+  text-align: center;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: flex-start;
+  -moz-box-align: center;
+  align-items: center;
+  gap: 5px;
+  white-space: nowrap;
+  letter-spacing: 1px;
+  padding-left: 5px;
+}
+
+.article .ContainerCard .infoContainer .infoName {
+  overflow: hidden;
+  height: 65px;
+  padding-right: 1px;
+  background-color: white;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.article .ContainerCard .infoContainer .infoName .title-product {
+  font-family: var(--font-description);
+  font-weight: 400;
+  text-align: start;
+  text-transform: uppercase;
+  font-size: 15.5px;
+  color: var(--background-brand);
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -moz-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.article .ContainerCard .infoContainer .PriceProduct {
+  font-family: var(--font-title);
+  font-size: 35px;
+  font-weight: 600;
+  color: #0f0a40;
+  transition: all 0.2s ease 0s;
+}
+
+.article .ContainerCard .ContainerComprar {
+  transition: all 0.3s ease 0s;
+  position: absolute;
+  bottom: -60px;
+  left: 0px;
+  width: 100%;
+  height: 59px;
+}
+
+.article .ContainerCard .ContainerComprar .btn {
+  width: 100%;
+  height: 50px;
+  background-color: #09072c;
+  color: var(--color);
+  border-width: 2px;
+  border-color: transparent;
+  border-style: solid;
+  display: flex;
+  -moz-box-pack: center;
+  justify-content: center;
+  -moz-box-align: center;
+  align-items: center;
+  transition: all 0.3s ease 0s;
+  font-family: var(--font-title);
+  text-transform: uppercase;
+  font-size: 23px;
+  font-weight: 600;
+  cursor: pointer;
+  text-align: center;
+  line-height: 23px;
+  letter-spacing: 1px;
+}
+
+.article:hover .ContainerComprar {
+  bottom: -10px;
+}
+
+.article .ContainerCard .ContainerAddCar {
+  position: absolute;
+  background-color: white;
+  box-shadow: white 0px 0px 10px 0px;
+  top: 20px;
+  right: 25px;
+  width: 0px;
+  height: 24px;
+  border-radius: 15px;
+  transition: all 0.3s ease 0s;
+  display: flex;
+  -moz-box-align: center;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.article:hover .ContainerAddCar {
+  padding-right: 25px;
+  width: 142px;
+}
+
+.article .ContainerCard .ContainerAddCar div {
+  z-index: 10;
+  transition: all 0.3s ease 0s;
+  position: absolute;
+  top: calc(50% - 15px);
+  right: -10px;
+  width: 30px;
+  height: 30px;
+  border-radius: 20px;
+  background-color: #09072c;
+  display: flex;
+  -moz-box-pack: center;
+  justify-content: center;
+  -moz-box-align: center;
+  align-items: center;
+  padding-right: 1.5px;
+}
+
+.article:hover .ContainerAddCar div {
+  width: 40px;
+  height: 40px;
+  top: calc(50% - 20px);
+}
+
+.article .ContainerCard .ContainerAddCar div svg {
+  color: #ffffff;
+}
+
+.article .ContainerCard .ContainerAddCar .p-Add {
+  overflow: hidden;
+  transition: all 0.3s ease 0s;
+  z-index: 8;
+  white-space: nowrap;
+  font-family: var(--font-description);
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13px;
+  width: 100%;
+  color: var(--color);
+  text-align: left;
+  padding-left: 5px;
+  line-height: 24px;
+  background-color: #09072c;
+  border-radius: 8px 0px 0px 8px;
+}
+
+.content {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 160px;
+  flex-wrap: wrap;
+}
+
+.content .slider-box {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content .slider-box .slick-list {
+  margin: 0px 50px;
+}
+
+.content .slider-box .slick-list .slick-track {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+.content .slider-box .slick-arrow {
+  width: 35px;
+  min-width: 35px;
+  max-width: 35px;
+  height: 35px;
+  min-height: 35px;
+  max-height: 35px;
+  opacity: 0.4;
+  color: var(--color);
+  border: 2px solid transparent;
+  background-color: var(--background-footer);
+  border-radius: 50%;
+  -moz-box-pack: center;
+  -moz-box-align: center;
+  transition: all 0.3s ease 0s;
+  box-sizing: border-box;
+  cursor: pointer;
+}

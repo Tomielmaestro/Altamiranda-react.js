@@ -1,0 +1,76 @@
+{
+  "marcas": [
+    {
+      "id": 1,
+      "logo": "./public/brands/amd.png"
+    },
+    {
+      "id": 2,
+      "logo": "./public/brands/aorusblanco.png"
+    },
+    {
+      "id": 3,
+      "logo": "./public/brands/apple_carrucel.png"
+    },
+    {
+      "id": 4,
+      "logo": "./public/brands/asus.png"
+    },
+    {
+      "id": 5,
+      "logo": "./public/brands/corsair.png"
+    },
+    {
+      "id": 6,
+      "logo": "./public/brands/gigabyte.png"
+    },
+    {
+      "id": 7,
+      "logo": "./public/brands/hp.avif"
+    },
+    {
+      "id": 8,
+      "logo": "./public/brands/hyperx.png"
+    },
+    {
+      "id": 9,
+      "logo": "./public/brands/intelnewlogoblanco.png"
+    },
+    {
+      "id": 10,
+      "logo": "./public/brands/kingston.png"
+    },
+    {
+      "id": 11,
+      "logo": "./public/brands/lenovologo-rev-1color-01.png"
+    },
+    {
+      "id": 12,
+      "logo": "./public/brands/logitech.png"
+    },
+    {
+      "id": 13,
+      "logo": "./public/brands/nvidia.png"
+    },
+    {
+      "id": 14,
+      "logo": "./public/brands/palit.png"
+    },
+    {
+      "id": 15,
+      "logo": "./public/brands/razer.avif"
+    },
+    {
+      "id": 16,
+      "logo": "./public/brands/samsung.png"
+    },
+    {
+      "id": 17,
+      "logo": "./public/brands/trust-blanco.png"
+    },
+    {
+      "id": 18,
+      "logo": "./public/brands/xiaomi.avif"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "marcas": [
+    {
+      "id": 1,
+      "nombre": "Amd",
+      "logo": "../../.public/brands/amd.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Aourus",
+      "logo": "../../.public/brands/aourusblanco.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Apple",
+      "logo": "../../.public/brands/apple_carrucel.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Asus",
+      "logo": "../../.public/brands/asus.png"
+    },
+    {
+      "id": 5,
+      "nombre": "Corsair",
+      "logo": "../../.public/brands/corsair.png"
+    },
+    {
+      "id": 6,
+      "nombre": "Gigabyte",
+      "logo": "../../.public/brands/gigabyte.png"
+    },
+    {
+      "id": 7,
+      "nombre": "Hp",
+      "logo": "../../.public/brands/hp.avif"
+    },
+    {
+      "id": 8,
+      "nombre": "Hyperx",
+      "logo": "../../.public/brands/hyperx.png"
+    },
+    {
+      "id": 9,
+      "nombre": "Intel",
+      "logo": "../../.public/brands/intelnewlogoblanco.png"
+    },
+    {
+      "id": 10,
+      "nombre": "Kingston",
+      "logo": "../../.public/brands/kingston.png"
+    },
+    {
+      "id": 11,
+      "nombre": "Lenovo",
+      "logo": "../assets/brands/lenovologo-rev-1color-01.png"
+    },
+    {
+      "id": 12,
+      "nombre": "Logitech",
+      "logo": "../assets/brands/logitech.png"
+    },
+    {
+      "id": 13,
+      "nombre": "Nvidia",
+      "logo": "../assets/brands/nvidia.png"
+    },
+    {
+      "id": 14,
+      "nombre": "Palit",
+      "logo": "../assets/brands/palit.png"
+    },
+    {
+      "id": 15,
+      "nombre": "Razer",
+      "logo": "../assets/brands/razer.avif"
+    },
+    {
+      "id": 16,
+      "nombre": "Samsung",
+      "logo": "../assets/brands/samsung.png"
+    },
+    {
+      "id": 17,
+      "nombre": "Trust",
+      "logo": "../assets/brands/trust-blanco.png"
+    },
+    {
+      "id": 18,
+      "nombre": "Xiaomi",
+      "logo": "../assets/brands/xiaomi.avif"
+    }
+  ]
+}
